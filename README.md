@@ -1,3 +1,4 @@
 # K-Means-Clustering
 
-https://mybinder.org/v2/gh/FranjoHHZ/K-Means-Clustering/HEAD
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FranjoHHZ/K-Means-Clustering/HEAD)
