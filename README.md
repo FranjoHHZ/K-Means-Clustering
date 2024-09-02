@@ -19,5 +19,5 @@ Confusion Matrix und Classification Report: Die Confusion Matrix und der Classif
 Diese Übung zeigt, dass K Means Clustering eine nützliche Technik ist, um Gruppen in Daten zu finden, deren Zugehörigkeit unbekannt ist. Es verdeutlicht auch die Herausforderung, einen unüberwachten Lernalgorithmus zu bewerten, wenn die wahre Zuordnung nicht bekannt ist
 
 
-# Binder Bange
+# Binder Badge
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FranjoHHZ/K-Means-Clustering/HEAD)
