@@ -21,7 +21,7 @@ Auswertung der Clustering-Ergebnisse: Erstellen Sie eine Confusion Matrix und ei
 
 Klicken Sie auf den folgenden Badge, um das Projekt direkt auf Google Colab zu öffnen. Bitte führen Sie dort durch das Drücken "Shift"+ "Enter" die Befehle aus oder klicken Sie auf den Reiter "Laufzeit" und dann auf "Alles ausführen".
 
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FranjoHHZ/K-Means-Clustering/blob/main/3-K_Means_Clustering_Projekt-Loesung.ipynb)
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FranjoHHZ/K-Means-Clustering/blob/main/3_K_Means_Clustering_Projekt_Loesung.ipynb)
 
 
 # Erwartetes Ergebnis
