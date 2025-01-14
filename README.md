@@ -31,7 +31,7 @@ Confusion Matrix und Classification Report: Die Confusion Matrix und der Classif
 
 Diese Übung zeigt, dass K Means Clustering eine nützliche Technik ist, um Gruppen in Daten zu finden, deren Zugehörigkeit unbekannt ist. Es verdeutlicht auch die Herausforderung, einen unüberwachten Lernalgorithmus zu bewerten, wenn die wahre Zuordnung nicht bekannt ist
 
-Confusion Matrix und den Classification Report, um zu sehen wie gut unser K Means Clustering die Universitäten zugeordnet hat:
+Confusion Matrix und der Classification Report zeigen wie gut das K Means Clustering die Universitäten zugeordnet hat:
 
 ![image](https://github.com/user-attachments/assets/10ddaf12-8662-408c-b202-45046044b4a0)
 
